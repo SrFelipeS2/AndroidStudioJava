@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprobado-Reprobado</string>
+    <string name="sociales">SOCIALES</string>
+    <string name="calcular_promedio">Calcular Promedio</string>
+    <string name="fisica">FISICA</string>
+    <string name="matematicas">MATEMATICAS</string>
+</resources>
