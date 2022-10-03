@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SlideActivityData</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">Nombre</string>
+    <string name="button1">Enviar</string>
+    <string name="button2">Regresar</string>
 </resources>

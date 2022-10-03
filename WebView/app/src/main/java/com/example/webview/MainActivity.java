@@ -1,4 +1,4 @@
-package com.example.slideactivitydata;
+package com.example.webview;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -17,11 +17,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         et1 = findViewById(R.id.et1);
+
     }
 
-    public void Enviar(View view){
-        Intent i =new Intent(this, MainActivity2.class);
-        i.putExtra("primerNombre", et1.getText().toString());
+    public void Navegar(View view){
+        Intent i = new Intent(this, WebActivity.class);
+        i.putExtra("sitioWeb", et1.getText().toString());
         startActivity(i);
     }
 

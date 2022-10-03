@@ -3,8 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStuduio/SlideActivityData/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/AndroidStuduio/SlideActivityData/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/AndroidStuduio/WebView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStuduio/WebView/app/src/main/res/layout/activity_web.xml" value="0.33" />
       </map>
     </option>
   </component>
