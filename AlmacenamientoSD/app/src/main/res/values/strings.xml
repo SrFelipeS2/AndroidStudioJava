@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlmacenamientoSD</string>
+    <string name="et1">Nombre</string>
+    <string name="BtnGuardar">Guardar</string>
+    <string name="BtnConsultar">Consultar</string>
+
+</resources>
