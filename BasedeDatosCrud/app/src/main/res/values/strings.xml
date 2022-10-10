@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasedeDatosCrud</string>
+    <string name="txt_codigo">Codigo del producto</string>
+    <string name="txt_descripcion">Descripcion del producto</string>
+    <string name="txt_precio">Precio del producto</string>
+    <string name="btnRegistrar">Registrar Producto</string>
+    <string name="btnBuscar">Buscar Producto</string>
+    <string name="btnModificar">Modificar Producto</string>
+    <string name="btnEliminar">Eliminar Producto</string>
+
+</resources>
